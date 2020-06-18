@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "*.h": "c"
+        },
+        "editor.formatOnSave": true,
+        "editor.detectIndentation": false
+    }
+}
