@@ -1,0 +1,34 @@
+AlignConsecutiveAssignments: true
+AlignConsecutiveDeclarations: true
+AlignEscapedNewlines: Right
+AlignOperands: true
+AlignTrailingComments: true
+AllowShortIfStatementsOnASingleLine: true
+AllowShortLoopsOnASingleLine: true
+BinPackArguments: false
+BinPackParameters: false
+BreakBeforeBraces: Custom
+ColumnLimit: 0
+IncludeBlocks: Preserve
+IndentCaseLabels: true
+IndentPPDirectives: AfterHash
+IndentWidth: 4
+PointerAlignment: Middle
+SortIncludes: false
+SpaceBeforeParens: ControlStatements
+UseTab: Never
+
+BraceWrapping:
+  AfterEnum: true
+  AfterStruct: true
+  AfterControlStatement: true
+  AfterFunction: true
+  AfterExternBlock: true
+  BeforeCatch: true
+  BeforeElse: true
+  SplitEmptyFunction: true
+  SplitEmptyRecord: true
+
+# Not sure if this is actually working.
+# Intention is to leave comments alone.
+CommentPragmas: '^\s*!'
