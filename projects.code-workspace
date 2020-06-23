@@ -8,7 +8,7 @@
         "files.associations": {
             "*.h": "c"
         },
-        "editor.formatOnSave": true,
-        "editor.detectIndentation": false
+        "editor.detectIndentation": false,
+        "editor.formatOnSave": true
     }
 }
