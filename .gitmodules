@@ -5,3 +5,7 @@
 [submodule "eec195_lab4"]
 	path = eec195_lab4
 	url = ../eec195_lab4.git
+
+[submodule "textinglab_eec172"]
+	path = textinglab_eec172
+	url = ../textinglab_eec172.git
