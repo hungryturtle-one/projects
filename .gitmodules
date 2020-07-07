@@ -9,3 +9,7 @@
 [submodule "textinglab_eec172"]
 	path = textinglab_eec172
 	url = ../textinglab_eec172.git
+
+[submodule "servo_controller"]
+	path = servo_controller
+	url = ../servo_controller.git
